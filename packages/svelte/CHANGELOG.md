@@ -1,5 +1,13 @@
 # svelte
 
+## 4.2.1
+
+### Patch Changes
+
+- fix: css sourcemap generation with unicode filenames ([#9120](https://github.com/sveltejs/svelte/pull/9120))
+
+- fix: take custom attribute name into account when reflecting property ([#9140](https://github.com/sveltejs/svelte/pull/9140))
+
 ## 4.2.0
 
 ### Minor Changes
